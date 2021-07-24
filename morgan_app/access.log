@@ -1,0 +1,7 @@
+89e101de-0423-4ef1-b0b5-951132e6b956 userToken GET 304 / "HTTP/1.1"
+9574042f-3116-44c5-885c-b8d2b84cbb3c userToken GET 304 / "HTTP/1.1"
+67baeff9-e140-4e00-b5d9-387756844043 userToken
+0a10b24a-b603-4b8d-b815-fef785f64e67 userToken /dlkjaf
+a19f682f-9e12-4f34-96a3-8948868d8bb5 userToken /dlkjafasdf
+ 1e561291-3ce7-4d8e-8c76-6ed8a1e94231 userToken GET 200 / "HTTP/1.1"
+ad98b3be-298a-49fa-99d5-242769006880 userToken GET 404 /favicon.ico "HTTP/1.1"

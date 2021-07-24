@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+
+body{
+    font-family: 'Viaoda Libre', cursive;
+    background-image: url('assets/bgimg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color :chartreuse;
+}
+.center-div{
+    padding-top :10%
+}
+
+.button {
+    padding: 2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login .title>span{
+    font-size: .8em;
+}
